@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Kyrylo
 
-<!--
-**Kyrylo-Mudryi/Kyrylo-Mudryi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my career in IT with a focus on data analysis, Python, and SQL.  
+I use GitHub to document my learning process, build portfolio projects, and improve my technical skills.
 
-Here are some ideas to get you started:
+- 🔭 Working on data analysis portfolio projects
+- 🌱 Learning Python, SQL, pandas, NumPy, Matplotlib, and Power BI
+- 🧠 Practicing problem-solving with LeetCode
+- 📊 Interested in practical data analysis and clear project documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+
+- **Housing Market Analysis** — exploring housing market data and presenting key insights.
+- **Kaggle Titanic Competition** — feature engineering, model comparison, and leaderboard-tested submissions.
+
+### Tools & technologies
+
+**Main focus:** Python, SQL  
+**Currently practicing:** pandas, NumPy, Matplotlib, Power BI  
+**Also using:** Git, GitHub, Jupyter Notebook, Excel, Google Sheets
