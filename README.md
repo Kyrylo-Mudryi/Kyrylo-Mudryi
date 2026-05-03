@@ -15,4 +15,4 @@ I use GitHub to document my learning process, build portfolio projects, and impr
 **Also using:** Git, GitHub, Jupyter Notebook, Excel, Google Sheets
 
 ### Contact
-You can reach me through LinkedIn: [Kyrylo Mudryi](https://www.linkedin.com/in/kyrylo-mudryi-391185391/)
+You can reach me through LinkedIn: [Kyrylo Mudryi](https://www.linkedin.com/in/kyrylo-mudryi)
